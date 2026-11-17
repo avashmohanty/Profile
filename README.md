@@ -63,9 +63,7 @@
 
 ## Connect
 
-- LinkedIn: [your-linkedin-url]
-- Email: [your-public-email]
+- LinkedIn: [https://www.linkedin.com/in/avash-mohanty/]
+- Email: [avashmohanty@gmail.com]
 
 ---
-
-Created by Avash Mohanty, 2026
