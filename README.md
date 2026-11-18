@@ -38,6 +38,9 @@
 | [**capacity-forecasting-template**](https://github.com/avashmohanty/capacity-forecasting-template) | Demand-vs-capacity forecast that tells you the latest month to start a hire | Python, pandas |
 | [**powerbi-dax-delivery-patterns**](https://github.com/avashmohanty/powerbi-dax-delivery-patterns) | Created vs. resolved, backlog, and SLA measures that expose a growing backlog behind green SLAs | Power BI, DAX |
 | [**n8n-jsm-weekly-status-agent**](https://github.com/avashmohanty/n8n-jsm-weekly-status-agent) | Weekly status note drafted by an LLM from anonymous aggregates, reviewed by a human before sending | n8n, LLM API |
+| [**raid-log-extractor**](https://github.com/avashmohanty/raid-log-extractor) | Meeting transcripts to a RAID log with an LLM, with every item verified against the transcript | Python, LLM API |
+| [**ticket-triage-copilot**](https://github.com/avashmohanty/ticket-triage-copilot) | LLM ticket triage with PII redaction and a confidence gate that routes uncertain tickets to a human | Python, LLM API |
+| [**change-impact-analyzer**](https://github.com/avashmohanty/change-impact-analyzer) | Change requests to impacted systems, dependency-graph blast radius, and risk level, with the LLM limited to extraction | Python, LLM API |
 
 ---
 
@@ -52,7 +55,8 @@
 ## Certifications & training
 
 - PMP (Project Management Professional)
-- SAFe
+- SAFe Practitioner
+- ITIL v3 Foundation
 - AI Foundations
 - Business Analysis using AI
 - Data Analysis using AI
@@ -63,7 +67,10 @@
 
 ## Connect
 
-- LinkedIn: [https://www.linkedin.com/in/avash-mohanty/]
-- Email: [avashmohanty@gmail.com]
+- Website: [avashmohanty.github.io](https://avashmohanty.github.io)
+- LinkedIn: [linkedin.com/in/avash-mohanty](https://linkedin.com/in/avash-mohanty)
+- Email: avashmohanty@gmail.com
 
 ---
+
+Created by Avash Mohanty, 2026
